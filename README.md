@@ -2,8 +2,7 @@
 Classic snake written with html, css and js
 
 ## To run as a web app:
- - Clone the repo
- - Open index.html in browser
+ - Open (https://r-mielamud.github.io/SnakeGame/)[https://r-mielamud.github.io/SnakeGame/]
  - Enjoy!
 
 ## To run as an Electron app:
