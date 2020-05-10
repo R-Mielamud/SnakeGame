@@ -1,0 +1,14 @@
+{
+  "name": "snake",
+  "version": "0.0.1",
+  "description": "Snake Game",
+  "main": "start.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Roman",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.1"
+  }
+}
